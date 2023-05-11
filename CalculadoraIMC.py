@@ -29,3 +29,4 @@ imc= calcular (peso, altura)
 categoria = determinar (imc)
 
 print("Seu imc é",imc)
+print("Sua categoria é", categoria)
